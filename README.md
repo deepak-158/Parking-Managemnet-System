@@ -12,7 +12,7 @@ This is a Java-based Parking Management System with a graphical user interface (
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/parking-management-system.git
+   git clone https://github.com/deepak-158/parking-management-system.git
    ```
 2. Open the project in your preferred Java IDE.
 3. Ensure Java is installed on your system.
